@@ -1,0 +1,83 @@
+body{
+		margin:0;
+}
+div{
+		margin:10px;
+		margin-top:50px;
+		float:left;
+	}
+h1{
+	 font-family: Helvetica;
+	 font-size: 75px;
+	 text-align: center;
+	 font-style:bold;
+}
+h2{
+	font-family: Helvetica;
+}
+div ul li{
+	font-family: serif;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: normal;
+	line-height: 21px;
+	color: #191919;
+}
+p	{
+	left:10px;
+	font-family: serif;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 21px;
+	color: #191919;
+}
+#my{
+	width:195px;
+	float:left;
+	margin:0 5px 10px 0;
+	opacity:0.5
+}
+#my:hover{
+	width:190px;
+	float:left;
+	margin:0 5px 10px 0;
+	opacity:1;
+}
+
+#selfintro{
+  font-family: serif;
+	font-style: italic; 
+	font-weight: normal;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: underline;
+	color: #ADADAD;
+}
+#selfintro:hover{
+	color: black;
+}
+#hawea{
+	width:1423px;
+	height:350px;
+	margin-bottom:150px;
+}
+#phone{
+	height:25px;
+	position:relative;
+	float:left;
+}
+#mail{
+	height:20px;
+	margin-right:5px;
+	position:relative;
+	float:left;
+}
+#fb{
+	height:23px;
+	margin-right:5px;
+	position:relative;
+	float:left;
+}
+#contacts{
+  width:200px;
+}
